@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Nexus Helper
+Searchable temple nexus plugin
